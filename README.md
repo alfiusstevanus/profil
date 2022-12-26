@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfiusstevanus
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java and PHP
 - 💞️ I’m looking to collaborate on my Instagram
 - 📫 How to reach me ? Follow my insta @alfiusstevanus
 
